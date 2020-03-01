@@ -1,1 +1,1 @@
-# demotest local stash
+# demotest local command
