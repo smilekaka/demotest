@@ -1,1 +1,1 @@
-# demotest local command
+# demotest local add/commit command
